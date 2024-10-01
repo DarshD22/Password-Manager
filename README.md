@@ -39,8 +39,8 @@ Password Manager Menu:
 This program encrypts the saved passwords using a simple encrypting algorithm. While this provides some level of security, it is not recommended for storing highly sensitive passwords.
 
 ## Contributors
-  The contributors to this project are: Darsh Dujrai 
+  The contributors to this project is: Darsh Dujrai 
   
 
-#  P a s s w o r d M a n a g e r
+  P a s s w o r d M a n a g e r
 
